@@ -3,7 +3,7 @@
 
 
 - 🔭 Trabalho com Front-end
-- 🌱 Estudando Javascript
+- 🌱 Estudando React-JS
 - 📫  Contate-me no email: gustavo.fdh11@gmail.com
 
 <div align="centro">
